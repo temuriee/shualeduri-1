@@ -4,3 +4,8 @@ let myName = document.querySelector("#gitInput").innerHTML;
 
 let myButn = document.querySelector("#gitButton");
 let myBtn = addEventListener("gitButton").innerHTML(url);
+
+function myUrl() {
+  myName;
+  url;
+}
